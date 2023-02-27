@@ -16,6 +16,6 @@ to stop. [TestAlgorithm_riccati_TR.m](TestAlgorithm_riccati_TR.m) shows how thes
 latter also computes automatically the different gradients and Hessian for each sub-systems (in the case of
 switched systems).
 
-For more details, please refer to the [report](NMPC_Report_MonnetStephen.pdf) and [presentation](NMPC_Presentation_MonnetStephen.pdf).
+For more details, please refer to the [report](Report/NMPC_Report_MonnetStephen.pdf) and [presentation](Report/NMPC_Presentation_MonnetStephen.pdf).
 
 
